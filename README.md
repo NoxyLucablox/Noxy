@@ -1,2 +1,2 @@
 # Noxy
-Script
+Scripts That Noxy Makes
